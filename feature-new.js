@@ -4,3 +4,4 @@ console.log("Develop version");
 function newFeature() {
     console.log("This is a new feature");
 }
+console.log("Production version");
