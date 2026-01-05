@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Get the latest update from dashborad</p>",
+            "text": "<p>Get the latest update from dashboradccc</p>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
